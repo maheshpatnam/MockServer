@@ -7,7 +7,8 @@ vscode
 
 
 
-How to start mock server in MAC:
+How to start mock server in   MAC:
 -> go to inside project
 -> open mac terminal
+-> enter npm install
 -> enter npm start
