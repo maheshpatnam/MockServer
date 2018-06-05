@@ -12,3 +12,5 @@ How to start mock server in   MAC:
 -> open mac terminal
 -> enter npm install
 -> enter npm start
+-> make sure server is running
+
